@@ -44,4 +44,5 @@ Añadir link al archivo Usuario.java
 		model.addAttribute("usuario", usuario);
 		return "resultado";
 	}
+	
 ```
